@@ -1,2 +1,2 @@
 Lisäsin tämän GitHubissa
-Tätä tekstiä ei ole GitHubissa
+Tätä tekstiä ei ole paikallisessa työhakemistossa
